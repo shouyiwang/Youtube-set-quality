@@ -1,5 +1,6 @@
 # Set YouTube Quality
 **Introduction**
+
 From MacOs Big Sur beta 4, Safari finally supports VP9 playback, which means we can now play upto 8K using Safari. If your Mac was bought in 2017 or later, it probably supports VP9 hardware decoding, which uses minimum CPU resource. 
 
 However, YouTube always tries to stream low quality videos, even if your bandwidth is very high. Especially during the pandemic, the auto video quality is unbearable. I have to set the video quality manually every time. When using chrome, there are many extension can set YouTube's video quality, but none exists in Safari.
