@@ -1,5 +1,5 @@
 # Set YouTube Quality
-**Introduction**
+## Introduction
 
 From MacOs Big Sur beta 4, Safari finally supports VP9 playback, which means we can now play up to 8K videos using Safari. If your Mac was bought in 2017 or later, it probably supports VP9 hardware decoding, which uses minimum CPU resource. 
 
@@ -9,7 +9,7 @@ This script can disable YouTube's auto quality feature, and set your preferred v
 
 This script is tested in Safari 14 under MacOs Big Sur, however, as the script is pretty basic, it should work in older Safaris or other browsers as well.
 
-**How to use it**
+## How to use it
 1. Install Userscripts, it is a Safari extention.
 https://apps.apple.com/us/app/userscripts/id1463298887?mt=12
 2. Create a new Javascript file in Userscripts, empty it, then copy the code from YouTube.js into it.
